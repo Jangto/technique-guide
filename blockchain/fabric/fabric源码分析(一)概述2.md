@@ -11,4 +11,5 @@
 * peer  peer节点入口    
 * protos 原型目录，定义个各种原型和生成的对应的XXX.pb.go源码
 * vendor 原意是商贩，在此就是存放go中使用的全部的各种第三方包
+
 [fabric源码解析1——线头](https://blog.csdn.net/idsuf698987/article/details/74912362)     
